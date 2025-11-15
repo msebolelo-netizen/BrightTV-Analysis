@@ -6,16 +6,16 @@ The objective is to grow the company’s subscription base for this financial ye
 
 # <img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/4a5d525b-29b1-473b-951f-cb230ef85a7c" />Summary of Findings
 BrightTV is widely spread across South Africa with the majority of thier customers based in Gauteng and the statistics are as follows:
-1. Gauteng	        37%
-2. Western Cape		  18%
-3. Kwazulu Natal	  10%
-4. Mpumalanga		    9%
-5. Limpopo		      8%
-6. Eastern Cape		  7%
-7. Free State		    3%
-8. None		          3%
-9. North West		    3%
-10. Northern Cape		2%
+1. Gauteng	        ** **37%** **
+2. Western Cape		  _ _18%_ _
+3. Kwazulu Natal	  _ _10%_ _
+4. Mpumalanga		    _ _9%_ _
+5. Limpopo		      _ _8%_ _
+6. Eastern Cape		  _ _7%_ _
+7. Free State		    _ _3%_ _
+8. None		          _ _3%_ _
+9. North West		    _ _3%_ _
+10. Northern Cape		_ _2%_ _
 
 #### From the above findings it is clear that more marketing of our services and products needs to be conducted so we can increase our pool of customers to the larger scale of South Africa. 
 
@@ -41,4 +41,5 @@ BrightTV is widely spread across South Africa with the majority of thier custome
 18. MK		                      0%
 19. Wimbledon		                0%
 
-##### from the stats it is clear that some of the channels don't have any viewership from our pool of customers and they would need to be discountined as they are not bring revenue to the company. Sport channels are leding in viewership when compared with other reality shows.  
+##### From the stats it is clear that some of the channels don't have any viewership from our pool of customers and they would need to be discountined as they are not bring revenue to the company. 
+##### Sport channels are leding in viewership when compared with other reality shows however "Live on Supersport"has zero viewship and needs reviewing if there is still a need to retain it.  
