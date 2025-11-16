@@ -43,3 +43,7 @@ BrightTV is widely spread across South Africa with the majority of thier custome
 
 ##### From the stats it is clear that some of the channels don't have any viewership from our pool of customers and they would need to be discountined as they are not bring revenue to the company. 
 ##### Sport channels are leding in viewership when compared with other reality shows however "Live on Supersport"has zero viewship and needs reviewing if there is still a need to retain it.  
+
+## Customer Information 
+
+From the stats the majority of our customers are mostly male counter parts with 88% while our female counter part are only 10% coverage. The remaining  3%  is customers who are not flagged as None.
